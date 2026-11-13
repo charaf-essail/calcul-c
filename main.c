@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Bienvenue dans le projet calcul-c !\n");
+    printf("Bienvenue dans calcul-c !\n");
     int a, b;
 
     printf("Entrez deux entiers : ");
